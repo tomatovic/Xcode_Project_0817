@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Project13
 //
-//  Created by Stephen DeStefano on 11/4/16.
+//  Created by Thomas Hirth on 11/4/16.
 //  Copyright © 2016 Stephen DeStefano. All rights reserved.
 //
 
